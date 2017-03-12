@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+body {
+  margin-top: 30px;
+  padding: 30px;
+  ovrflow: hidden;
+}
+.back {
+  background-color: #C0C0C0;
+}
+
+h1 {
+  line-height: 30px;
+  font-family: Open Sans, serif;
+}
+
+h3 {
+  line-height:20px;
+  font-style: italic;
+}
+
+li {
+  line-height : 20px;
+  margin-left : 50px;
+}
+
+#link_images div{
+  display: inline-block;
+}
